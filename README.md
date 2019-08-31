@@ -17,4 +17,4 @@ Run the service.
 Send a get request to `localhost:8080/location` with the query parameter `ip` for the ip you want to search.
 
 ## Docker
-The docker image pulls the database file.
+You can build a docker image directly. It pulls the database file automatically.
